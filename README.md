@@ -1,5 +1,4 @@
 # Power BI Sales Analysis
-# Power BI Sales Analysis
 ## Project Structure
 - 📂 data/raw: Raw dataset files
 - 📂 data/processed: Processed and cleaned data
